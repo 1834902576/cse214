@@ -25,16 +25,9 @@
 * Cyclically Permute
 ## Lab Assignment 5 (Array Operation using Pointer)
 * Array Declaration
-* Array Initialization 
-* Array Accessing 
-* Array I/O 
-* Merge
-* Compare
-* Reverse
-* Maximum
-* Minimum
-* Merge by Sorting
-* Summation
-* Split
-* Updating Index
-* Cycally Permute
+  - Array Initialization 
+  - Array Accessing 
+  - Array I/O 
+  - Merge
+  - Compare
+  
