@@ -1,5 +1,5 @@
-## cse214
-## ./ Lab Assignment 1
+# Data Structure CSE-214
+## Lab Assignment 1
 * Array Declaration
 * Array Initialization
 * Array Accessing
