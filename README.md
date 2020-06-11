@@ -1,6 +1,6 @@
 ## cse214
-## Lab Assignment 1
-* Array Declaretion
+## ./ Lab Assignment 1
+* Array Declaration
 * Array Initialization
 * Array Accessing
 * Array I/O
@@ -24,7 +24,7 @@
 * Spilt
 * Cyclically Permute
 ## Lab Assignment 5 (Array Operation using Pointer)
-* Array Declaretion
+* Array Declaration
 * Array Initialization 
 * Array Accessing 
 * Array I/O 
