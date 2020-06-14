@@ -38,4 +38,4 @@
   * Summation
   * Split
   * Updating Index
-  * Cycally Permute
+  * Cycally Permutation 
