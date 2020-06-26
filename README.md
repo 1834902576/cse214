@@ -24,7 +24,6 @@
 * Spilt
 * Cyclically Permute
 ## [Lab Assignment 5 (Array Operation using Pointer)](lab5)
-
   * Array Declaration
   * Array Initialization 
   * Array Accessing 
@@ -39,3 +38,22 @@
   * Split
   * Updating Index
   * Cycally Permutation 
+  
+  Lab Assignment 6
+* Linked List Basic Operations [Single Way(Singly)Linked list]:
+* Linked list Create
+* Linked list Decleration
+* Linked list Initialization
+* Linked list Access
+* Linked list Traverse
+* Linked list Output
+Lab Assignment 7
+* Linked List Basic Operations [Single Way(Singly)Linked list]:
+* Linked list Create
+* Empty
+* Size
+* Front
+* Back
+* Search
+* Reverse
+* Merge
