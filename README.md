@@ -58,3 +58,17 @@
 * Search
 * Reverse
 * Merge
+
+## [Lab Assignment 8 (Linked-list)](lab8)
+* Delete Back
+* Delete Front
+* Delete Value
+* Delete At
+* Clear
+
+## [Lab Assignment 9(Linked-List)](lab9)
+* Insert Front
+* Insert Back
+* Insert At
+* Insert After
+* Insert Before
