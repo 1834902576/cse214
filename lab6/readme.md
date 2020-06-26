@@ -1,4 +1,4 @@
-Decleration & Initialization of Linked List
+## [Declaration and Initialization of linked list](Declaration and Initialization of linked list)
 //Structure Create Basic Pattern:
 /* struct_keyword Structure_Name {
     variable_dataType Variable_Name;
