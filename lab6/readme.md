@@ -1,5 +1,5 @@
 Decleration & Initialization of Linked List
-// Structure Create Basic Pattern:
+//Structure Create Basic Pattern:
 /* struct_keyword Structure_Name {
     variable_dataType Variable_Name;
 };
