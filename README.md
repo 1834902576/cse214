@@ -39,7 +39,7 @@
   * Updating Index
   * Cycally Permutation 
   
-  ## [Lab Assignment 6](lab6)
+  ## [Lab Assignment 6(Linked-List)](lab6)
 * Linked List Basic Operations [Single Way(Singly)Linked list]:
 * Linked list Create
 * Linked list Decleration
@@ -48,7 +48,7 @@
 * Linked list Traverse
 * Linked list Output
  
- ## [Lab Assignment 7](lab7)
+ ## [Lab Assignment 7(Linked-List)](lab7)
 * Linked List Basic Operations [Single Way(Singly)Linked list]:
 * Linked list Create
 * Empty
