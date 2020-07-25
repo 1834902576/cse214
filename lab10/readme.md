@@ -1,19 +1,15 @@
-
+#### [Designing a Queue data strcuture using C](../lab10/1.1.c)
 ## Chapter 1:Introduction
 
 A queue is a collection of elements that are kept in a sequence and can be modified by the addition of element at one end of the sequence which is also known as tail and the deletion from the other end of the sequence which is also called as front. Queue is an abstract data type.
 We can do various operations using queue data structure. They are given below:
-•	Empty
 
-•	Size
-
-•	Top
-
-•	Push
-
-•	Pop
-
-•	Display
+*	Empty
+* Size
+* Top
+* Push
+* Pop
+*	Display
 
 Empty: Linked list contains a ‘head’ pointer. If the head is null it’s called empty.
 
