@@ -1,5 +1,6 @@
 
 ** Chapter 1:Introduction
+
 A queue is a collection of elements that are kept in a sequence and can be modified by the addition of element at one end of the sequence which is also known as tail and the deletion from the other end of the sequence which is also called as front. Queue is an abstract data type.
 We can do various operations using queue data structure. They are given below:
 •	Empty
@@ -16,6 +17,7 @@ Push: Adding an element at the end of the queue is called push.
 Pop: Removing an element from a linked list is called pop.
  
 ** Chapter 2: Uses of Queue
+
 Queue is used to maintain FIFO (First in First Out). There are many uses of queue in computer system as well as in real life. Some of them are:
 •	Call center uses queue to hold people calling in order as it can’t be possible to take all the calls at a time.
 •	Computer needs to handle multi-user, Multi-Programming environment. To handle this all thing a computer has to do several jobs at a time. For this the concept of queue is used.
@@ -30,6 +32,7 @@ These are some uses of queue in real life and in a computer system.
 
  
 ** Chapter 3: Code
+
 1.	/*Design a Queue data structure using C 
 2.	*/  
 3.	#include <stdio.h>  
