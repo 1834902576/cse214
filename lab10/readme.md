@@ -25,6 +25,7 @@ Push: Adding an element at the end of the queue is called push.
 
 Pop: Removing an element from a linked list is called pop.
  
+
 ** Chapter 2: Uses of Queue
 
 Queue is used to maintain FIFO (First in First Out). There are many uses of queue in computer system as well as in real life. Some of them are:
