@@ -12,15 +12,10 @@ We can do various operations using queue data structure. They are given below:
 *	Display
 
 <b>Empty</b>: Linked list contains a ‘head’ pointer. If the head is null it’s called empty.
-
 <b>Size</b>: Indicates the total element of a queue.
-
 <b>Top</b>: Adding an element at the front of a queue is called top.
-
 <b>Push</b>: Adding an element at the end of the queue is called push.
-
 <b>Pop</b>: Removing an element from a linked list is called pop.
-
 <b>Display</b>: It basically gives instruction to user. A user can select option taking suggestion from display option.
  
 
